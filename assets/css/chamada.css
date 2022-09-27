@@ -1,0 +1,78 @@
+h1 {
+
+    text-align: center;
+    font-size: 4rem;
+    text-decoration: underline;
+    font-weight: 600;
+}
+
+.conteudo__chamada___info h2 {
+
+    margin: 15px 0;
+    font-size: 2.4rem;
+    font-weight: 400;
+}
+
+.conteudo__chamada___info p {
+
+    margin: 15px 0;
+    font-size: 1.5rem;
+    font-weight: 300;
+}
+
+.conteudo__chamada {
+
+    background-image: url(../img/banner.png);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 50% 100%;
+    background-color: #ececec;
+}
+
+.conteudo__chamada___info {
+    
+    width: 50%;
+    height: 100%;
+    padding: 30px;
+}
+
+.chamada__botao {
+
+    background-color: #9ad7e2;
+    display: inline-block;
+    color: inherit;
+    font-size: 1.4rem;
+    text-decoration: none;
+    margin-top: 30px;
+    border: 3px solid #9ad7e2;
+    width: 250px;
+    padding: 30px 0;
+    text-align: center;
+    transition: ease-in-out .3s;
+}
+
+.chamada__botao:hover {
+
+    background-color: #8cc8d3;
+    border: 3px solid #8cc8d3;
+    
+}
+
+.sobre {
+
+    background-color: inherit;
+    border: 3px solid #9ad7e2;
+}
+
+.sobre:hover {
+
+    background-color: #c1e2e771;
+}
+
+.botoes {
+
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}

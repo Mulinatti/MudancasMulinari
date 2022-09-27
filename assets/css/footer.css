@@ -1,0 +1,28 @@
+footer {
+
+    padding: 40px;
+    background-color: #e0e0e0;
+    text-align: center;
+}
+
+footer a {
+
+    color: #000;
+    text-decoration: none;
+}
+
+footer i {
+
+    margin-right: 3px;
+}
+
+address {
+
+    font-style: normal;
+}
+
+footer p {
+
+    margin: 5px 0;
+    font-weight: 800;
+}

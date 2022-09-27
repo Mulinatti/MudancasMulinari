@@ -1,0 +1,32 @@
+* {
+
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Mulish", sans-serif;
+}
+
+body {
+
+    background-color: #f3f3f3;
+    
+}
+
+.whatsapp {
+
+    width: 80px;
+    font-size: 4rem;
+    position: fixed;
+    right: 30px;
+    top: 30px;
+    background-color: #25D366;
+    text-align: center;
+    border-radius: 50%;
+    box-shadow: 0px 1px 10px rgb(65, 65, 65);
+}
+
+.whatsapp a {
+
+    text-decoration: none;
+    color: #ffffff;
+}
