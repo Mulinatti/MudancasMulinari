@@ -30,3 +30,21 @@ body {
     text-decoration: none;
     color: #ffffff;
 }
+
+@media only screen and (max-width: 800px) {
+
+    .whatsapp {
+
+        width: 60px;
+        font-size: 3rem;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+
+    .whatsapp {
+
+        width: 40px;
+        font-size: 2rem;
+    }
+}
